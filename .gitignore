@@ -1,0 +1,17 @@
+# C++ compiled files
+*.exe
+*.o
+*.out
+*.obj
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VS Code local configuration
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
